@@ -1,0 +1,14 @@
+C:\Curso-dotnet\Aula02\obj\Debug\net8.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfo.cs
+C:\Curso-dotnet\Aula02\obj\Debug\net8.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Aula02\bin\Debug\net8.0\Aula02.exe
+C:\Curso-dotnet\Aula02\bin\Debug\net8.0\Aula02.deps.json
+C:\Curso-dotnet\Aula02\bin\Debug\net8.0\Aula02.runtimeconfig.json
+C:\Curso-dotnet\Aula02\bin\Debug\net8.0\Aula02.dll
+C:\Curso-dotnet\Aula02\bin\Debug\net8.0\Aula02.pdb
+C:\Curso-dotnet\Aula02\obj\Debug\net8.0\Aula02.dll
+C:\Curso-dotnet\Aula02\obj\Debug\net8.0\refint\Aula02.dll
+C:\Curso-dotnet\Aula02\obj\Debug\net8.0\Aula02.pdb
+C:\Curso-dotnet\Aula02\obj\Debug\net8.0\Aula02.genruntimeconfig.cache
+C:\Curso-dotnet\Aula02\obj\Debug\net8.0\ref\Aula02.dll

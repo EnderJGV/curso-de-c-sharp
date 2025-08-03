@@ -1,0 +1,14 @@
+C:\Curso-dotnet\Aula04\bin\Debug\net8.0\Aula04.exe
+C:\Curso-dotnet\Aula04\bin\Debug\net8.0\Aula04.deps.json
+C:\Curso-dotnet\Aula04\bin\Debug\net8.0\Aula04.runtimeconfig.json
+C:\Curso-dotnet\Aula04\bin\Debug\net8.0\Aula04.dll
+C:\Curso-dotnet\Aula04\bin\Debug\net8.0\Aula04.pdb
+C:\Curso-dotnet\Aula04\obj\Debug\net8.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Aula04\obj\Debug\net8.0\Aula04.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Aula04\obj\Debug\net8.0\Aula04.AssemblyInfo.cs
+C:\Curso-dotnet\Aula04\obj\Debug\net8.0\Aula04.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Aula04\obj\Debug\net8.0\Aula04.dll
+C:\Curso-dotnet\Aula04\obj\Debug\net8.0\refint\Aula04.dll
+C:\Curso-dotnet\Aula04\obj\Debug\net8.0\Aula04.pdb
+C:\Curso-dotnet\Aula04\obj\Debug\net8.0\Aula04.genruntimeconfig.cache
+C:\Curso-dotnet\Aula04\obj\Debug\net8.0\ref\Aula04.dll
