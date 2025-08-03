@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Aula07\bin\Debug\net8.0\Aula07.exe
+C:\Curso-dotnet\Aula07\bin\Debug\net8.0\Aula07.deps.json
+C:\Curso-dotnet\Aula07\bin\Debug\net8.0\Aula07.runtimeconfig.json
+C:\Curso-dotnet\Aula07\bin\Debug\net8.0\Aula07.dll
+C:\Curso-dotnet\Aula07\bin\Debug\net8.0\Aula07.pdb
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\Aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\Aula07.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\Aula07.AssemblyInfo.cs
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\Aula07.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\Aula07.sourcelink.json
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\Aula07.dll
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\refint\Aula07.dll
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\Aula07.pdb
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\Aula07.genruntimeconfig.cache
+C:\Curso-dotnet\Aula07\obj\Debug\net8.0\ref\Aula07.dll
