@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Aula15 - Foreach\bin\Debug\net8.0\Aula15 - Foreach.exe
+C:\Curso-dotnet\Aula15 - Foreach\bin\Debug\net8.0\Aula15 - Foreach.deps.json
+C:\Curso-dotnet\Aula15 - Foreach\bin\Debug\net8.0\Aula15 - Foreach.runtimeconfig.json
+C:\Curso-dotnet\Aula15 - Foreach\bin\Debug\net8.0\Aula15 - Foreach.dll
+C:\Curso-dotnet\Aula15 - Foreach\bin\Debug\net8.0\Aula15 - Foreach.pdb
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\Aula15 - Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\Aula15 - Foreach.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\Aula15 - Foreach.AssemblyInfo.cs
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\Aula15 - Foreach.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\Aula15 - Foreach.sourcelink.json
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\Aula15 - Foreach.dll
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\refint\Aula15 - Foreach.dll
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\Aula15 - Foreach.pdb
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\Aula15 - Foreach.genruntimeconfig.cache
+C:\Curso-dotnet\Aula15 - Foreach\obj\Debug\net8.0\ref\Aula15 - Foreach.dll

@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Aula16 - Arrays\bin\Debug\net8.0\Aula16 - Arrays.exe
+C:\Curso-dotnet\Aula16 - Arrays\bin\Debug\net8.0\Aula16 - Arrays.deps.json
+C:\Curso-dotnet\Aula16 - Arrays\bin\Debug\net8.0\Aula16 - Arrays.runtimeconfig.json
+C:\Curso-dotnet\Aula16 - Arrays\bin\Debug\net8.0\Aula16 - Arrays.dll
+C:\Curso-dotnet\Aula16 - Arrays\bin\Debug\net8.0\Aula16 - Arrays.pdb
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\Aula16 - Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\Aula16 - Arrays.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\Aula16 - Arrays.AssemblyInfo.cs
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\Aula16 - Arrays.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\Aula16 - Arrays.sourcelink.json
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\Aula16 - Arrays.dll
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\refint\Aula16 - Arrays.dll
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\Aula16 - Arrays.pdb
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\Aula16 - Arrays.genruntimeconfig.cache
+C:\Curso-dotnet\Aula16 - Arrays\obj\Debug\net8.0\ref\Aula16 - Arrays.dll
