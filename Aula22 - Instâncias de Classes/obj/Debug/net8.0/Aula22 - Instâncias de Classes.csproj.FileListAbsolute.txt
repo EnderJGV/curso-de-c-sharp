@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\bin\Debug\net8.0\Aula22 - Instâncias de Classes.exe
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\bin\Debug\net8.0\Aula22 - Instâncias de Classes.deps.json
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\bin\Debug\net8.0\Aula22 - Instâncias de Classes.runtimeconfig.json
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\bin\Debug\net8.0\Aula22 - Instâncias de Classes.dll
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\bin\Debug\net8.0\Aula22 - Instâncias de Classes.pdb
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\Aula22 - Instâncias de Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\Aula22 - Instâncias de Classes.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\Aula22 - Instâncias de Classes.AssemblyInfo.cs
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\Aula22 - Instâncias de Classes.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\Aula22 - Instâncias de Classes.sourcelink.json
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\Aula22 - Instâncias de Classes.dll
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\refint\Aula22 - Instâncias de Classes.dll
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\Aula22 - Instâncias de Classes.pdb
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\Aula22 - Instâncias de Classes.genruntimeconfig.cache
+C:\Curso-dotnet\Aula22 - Instâncias de Classes\obj\Debug\net8.0\ref\Aula22 - Instâncias de Classes.dll

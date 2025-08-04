@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Aula17 - Lista\bin\Debug\net8.0\Aula17 - Lista.exe
+C:\Curso-dotnet\Aula17 - Lista\bin\Debug\net8.0\Aula17 - Lista.deps.json
+C:\Curso-dotnet\Aula17 - Lista\bin\Debug\net8.0\Aula17 - Lista.runtimeconfig.json
+C:\Curso-dotnet\Aula17 - Lista\bin\Debug\net8.0\Aula17 - Lista.dll
+C:\Curso-dotnet\Aula17 - Lista\bin\Debug\net8.0\Aula17 - Lista.pdb
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\Aula17 - Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\Aula17 - Lista.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\Aula17 - Lista.AssemblyInfo.cs
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\Aula17 - Lista.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\Aula17 - Lista.sourcelink.json
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\Aula17 - Lista.dll
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\refint\Aula17 - Lista.dll
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\Aula17 - Lista.pdb
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\Aula17 - Lista.genruntimeconfig.cache
+C:\Curso-dotnet\Aula17 - Lista\obj\Debug\net8.0\ref\Aula17 - Lista.dll

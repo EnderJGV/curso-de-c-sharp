@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\bin\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.exe
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\bin\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.deps.json
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\bin\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.runtimeconfig.json
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\bin\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.dll
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\bin\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.pdb
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.AssemblyInfo.cs
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.sourcelink.json
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.dll
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\refint\Aula19 - Gerenciador de Lista de Compras.dll
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.pdb
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\Aula19 - Gerenciador de Lista de Compras.genruntimeconfig.cache
+C:\Curso-dotnet\Aula19 - Gerenciador de Lista de Compras\obj\Debug\net8.0\ref\Aula19 - Gerenciador de Lista de Compras.dll

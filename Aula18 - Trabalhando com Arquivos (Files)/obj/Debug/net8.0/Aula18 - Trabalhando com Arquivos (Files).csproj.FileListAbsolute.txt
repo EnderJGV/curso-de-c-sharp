@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\bin\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).exe
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\bin\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).deps.json
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\bin\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).runtimeconfig.json
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\bin\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).dll
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\bin\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).pdb
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).AssemblyInfoInputs.cache
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).AssemblyInfo.cs
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).sourcelink.json
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).dll
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\refint\Aula18 - Trabalhando com Arquivos (Files).dll
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).pdb
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\Aula18 - Trabalhando com Arquivos (Files).genruntimeconfig.cache
+C:\Curso-dotnet\Aula18 - Trabalhando com Arquivos (Files)\obj\Debug\net8.0\ref\Aula18 - Trabalhando com Arquivos (Files).dll
