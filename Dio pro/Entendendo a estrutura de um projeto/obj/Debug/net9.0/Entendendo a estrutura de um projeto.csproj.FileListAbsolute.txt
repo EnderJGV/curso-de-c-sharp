@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\bin\Debug\net9.0\Entendendo a estrutura de um projeto.exe
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\bin\Debug\net9.0\Entendendo a estrutura de um projeto.deps.json
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\bin\Debug\net9.0\Entendendo a estrutura de um projeto.runtimeconfig.json
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\bin\Debug\net9.0\Entendendo a estrutura de um projeto.dll
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\bin\Debug\net9.0\Entendendo a estrutura de um projeto.pdb
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\Entendendo a estrutura de um projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\Entendendo a estrutura de um projeto.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\Entendendo a estrutura de um projeto.AssemblyInfo.cs
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\Entendendo a estrutura de um projeto.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\Entendendo a estrutura de um projeto.sourcelink.json
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\Entendendo a estrutura de um projeto.dll
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\refint\Entendendo a estrutura de um projeto.dll
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\Entendendo a estrutura de um projeto.pdb
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\Entendendo a estrutura de um projeto.genruntimeconfig.cache
+C:\Curso-dotnet\Dio pro\Entendendo a estrutura de um projeto\obj\Debug\net9.0\ref\Entendendo a estrutura de um projeto.dll
