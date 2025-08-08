@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\bin\Debug\net9.0\Estruturas_de_repeticao.exe
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\bin\Debug\net9.0\Estruturas_de_repeticao.deps.json
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\bin\Debug\net9.0\Estruturas_de_repeticao.runtimeconfig.json
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\bin\Debug\net9.0\Estruturas_de_repeticao.dll
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\bin\Debug\net9.0\Estruturas_de_repeticao.pdb
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\Estruturas_de_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\Estruturas_de_repeticao.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\Estruturas_de_repeticao.AssemblyInfo.cs
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\Estruturas_de_repeticao.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\Estruturas_de_repeticao.sourcelink.json
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\Estruturas_de_repeticao.dll
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\refint\Estruturas_de_repeticao.dll
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\Estruturas_de_repeticao.pdb
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\Estruturas_de_repeticao.genruntimeconfig.cache
+C:\Curso-dotnet\Dio pro\Estruturas_de_repeticao\obj\Debug\net9.0\ref\Estruturas_de_repeticao.dll
