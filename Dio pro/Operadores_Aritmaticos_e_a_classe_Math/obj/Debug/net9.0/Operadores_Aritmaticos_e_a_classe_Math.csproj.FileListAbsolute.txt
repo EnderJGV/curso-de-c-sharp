@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\bin\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.exe
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\bin\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.deps.json
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\bin\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.runtimeconfig.json
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\bin\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.dll
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\bin\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.pdb
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.AssemblyInfo.cs
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.sourcelink.json
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.dll
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\refint\Operadores_Aritmaticos_e_a_classe_Math.dll
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.pdb
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\Operadores_Aritmaticos_e_a_classe_Math.genruntimeconfig.cache
+C:\Curso-dotnet\Dio pro\Operadores_Aritmaticos_e_a_classe_Math\obj\Debug\net9.0\ref\Operadores_Aritmaticos_e_a_classe_Math.dll

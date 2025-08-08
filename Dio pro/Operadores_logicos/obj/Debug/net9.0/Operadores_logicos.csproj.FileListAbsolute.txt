@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Dio pro\Operadores_logicos\bin\Debug\net9.0\Operadores_logicos.exe
+C:\Curso-dotnet\Dio pro\Operadores_logicos\bin\Debug\net9.0\Operadores_logicos.deps.json
+C:\Curso-dotnet\Dio pro\Operadores_logicos\bin\Debug\net9.0\Operadores_logicos.runtimeconfig.json
+C:\Curso-dotnet\Dio pro\Operadores_logicos\bin\Debug\net9.0\Operadores_logicos.dll
+C:\Curso-dotnet\Dio pro\Operadores_logicos\bin\Debug\net9.0\Operadores_logicos.pdb
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\Operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\Operadores_logicos.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\Operadores_logicos.AssemblyInfo.cs
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\Operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\Operadores_logicos.sourcelink.json
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\Operadores_logicos.dll
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\refint\Operadores_logicos.dll
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\Operadores_logicos.pdb
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\Operadores_logicos.genruntimeconfig.cache
+C:\Curso-dotnet\Dio pro\Operadores_logicos\obj\Debug\net9.0\ref\Operadores_logicos.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\Aula22 - Instâncias de Classes.csproj": {}
+    "c:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\Aula22 - Instâncias de Classes.csproj": {}
   },
   "projects": {
-    "C:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\Aula22 - Instâncias de Classes.csproj": {
+    "c:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\Aula22 - Instâncias de Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\Aula22 - Instâncias de Classes.csproj",
+        "projectUniqueName": "c:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\Aula22 - Instâncias de Classes.csproj",
         "projectName": "Aula22 - Instâncias de Classes",
-        "projectPath": "C:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\Aula22 - Instâncias de Classes.csproj",
+        "projectPath": "c:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\Aula22 - Instâncias de Classes.csproj",
         "packagesPath": "C:\\Users\\ender\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\obj\\",
+        "outputPath": "c:\\Curso-dotnet\\Aula22 - Instâncias de Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

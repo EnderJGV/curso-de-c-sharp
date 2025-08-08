@@ -1,0 +1,5 @@
+c:\Curso-dotnet\Aula19 - POO\obj\Debug\net8.0\Aula19 - POO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Curso-dotnet\Aula19 - POO\obj\Debug\net8.0\Aula19 - POO.AssemblyInfoInputs.cache
+c:\Curso-dotnet\Aula19 - POO\obj\Debug\net8.0\Aula19 - POO.AssemblyInfo.cs
+c:\Curso-dotnet\Aula19 - POO\obj\Debug\net8.0\Aula19 - POO.csproj.CoreCompileInputs.cache
+c:\Curso-dotnet\Aula19 - POO\obj\Debug\net8.0\Aula19 - POO.sourcelink.json
