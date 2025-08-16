@@ -1,0 +1,15 @@
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\bin\Debug\net9.0\Tuplas_na_pratica.exe
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\bin\Debug\net9.0\Tuplas_na_pratica.deps.json
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\bin\Debug\net9.0\Tuplas_na_pratica.runtimeconfig.json
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\bin\Debug\net9.0\Tuplas_na_pratica.dll
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\bin\Debug\net9.0\Tuplas_na_pratica.pdb
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\Tuplas_na_pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\Tuplas_na_pratica.AssemblyInfoInputs.cache
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\Tuplas_na_pratica.AssemblyInfo.cs
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\Tuplas_na_pratica.csproj.CoreCompileInputs.cache
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\Tuplas_na_pratica.sourcelink.json
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\Tuplas_na_pratica.dll
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\refint\Tuplas_na_pratica.dll
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\Tuplas_na_pratica.pdb
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\Tuplas_na_pratica.genruntimeconfig.cache
+C:\Curso-dotnet\Dio pro\Tuplas_na_pratica\obj\Debug\net9.0\ref\Tuplas_na_pratica.dll
